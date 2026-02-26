@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Widget.ZeTheme" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/trackrBlue</item>
+        <item name="android:textColor">@color/white</item>
+
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Exercise01" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="materialButtonStyle">@style/Widget.ZeTheme</item>
+    </style>
+
+    <style name="Theme.Exercise01" parent="Base.Theme.Exercise01" />
+</resources>
