@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Meu Perfil</string>
+    <string name="username">Vinícius Andrade</string>
+    <string name="role">Desenvolvedor Backend</string>
+    <string name="bio">👨‍🎓 Computer Science • Learning - Full Stack Development ⚛️ React - Node - 📱Mobile Software Developer</string>
+    <string name="linkedin">Linkedin</string>
+    <string name="github">Github</string>
+</resources>
